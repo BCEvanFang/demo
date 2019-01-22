@@ -1,4 +1,4 @@
-[Click me](apple.html)
+[Click me](apple)
 
 ## Welcome to GitHub Pages
 
